@@ -1,0 +1,1 @@
+export { IconsFillSystemWrapper } from "./IconsFillSystemWrapper";

@@ -1,0 +1,1 @@
+export { IconsFillSystemThumbUpFill } from "./IconsFillSystemThumbUpFill";

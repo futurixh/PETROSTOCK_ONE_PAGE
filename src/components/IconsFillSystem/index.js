@@ -1,0 +1,1 @@
+export { IconsFillSystem } from "./IconsFillSystem";

@@ -1,0 +1,1 @@
+export { IconsFillSystemStarFill } from "./IconsFillSystemStarFill";
